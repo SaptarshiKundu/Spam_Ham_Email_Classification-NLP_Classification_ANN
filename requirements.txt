@@ -1,0 +1,11 @@
+requests
+shutil
+os
+re
+pandas
+zipfile
+scikit-learn
+matplotlib
+nltk
+tensorflow
+keras
